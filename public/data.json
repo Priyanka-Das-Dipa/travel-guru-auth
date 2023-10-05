@@ -30,54 +30,6 @@
       "description": "Stay in the heart of the city and experience urban luxury with modern amenities.",
       "rating": 4.3,
       "price": 280
-    },
-    {
-      "id": 5,
-      "image": "https://i.ibb.co/pyn2YCx/Sajek.png",
-      "title": "Rustic Cabin Retreat",
-      "description": "Unplug and unwind in our rustic cabins nestled in the woods. Perfect for nature lovers.",
-      "rating": 4.6,
-      "price": 150
-    },
-    {
-      "id": 6,
-      "image": "https://i.ibb.co/c3cq5BC/Sreemongol.png",
-      "title": "Historic Manor House",
-      "description": "Step back in time and stay in our beautifully restored historic manor house.",
-      "rating": 4.9,
-      "price": 320
-    },
-    {
-      "id": 7,
-      "image": "https://i.ibb.co/nRCgnKN/sundorbon.png",
-      "title": "Desert Oasis Resort",
-      "description": "Escape to the desert and enjoy a luxurious oasis with spa treatments and starry nights.",
-      "rating": 4.7,
-      "price": 300
-    },
-    {
-      "id": 8,
-      "image": "https://i.ibb.co/pyn2YCx/Sajek.png",
-      "title": "Ski Lodge Retreat",
-      "description": "Hit the slopes and relax in our cozy ski lodge with hot cocoa by the fireplace.",
-      "rating": 4.4,
-      "price": 200
-    },
-    {
-      "id": 9,
-      "image": "https://i.ibb.co/5Ryj0Jd/Rectangle-27.png",
-      "title": "Tropical Island Getaway",
-      "description": "Escape to a tropical paradise with white sandy beaches and crystal-clear waters.",
-      "rating": 4.8,
-      "price": 400
-    },
-    {
-      "id": 10,
-      "image": "https://i.ibb.co/mGy7bnC/Rectangle-1.png",
-      "title": "Charming Countryside Inn",
-      "description": "Experience the charm of the countryside in our quaint inn with farm-fresh breakfasts.",
-      "rating": 4.6,
-      "price": 120
     }
   ]
   

@@ -4,6 +4,8 @@ import ErrorPage from "../errorPage/ErrorPage";
 import Home from "../pages/Home/Home";
 import Login from "../pages/Login/Login";
 import Register from "../pages/Register/Register";
+import Destination from "../components/Destination";
+
 
 
 const router  = createBrowserRouter([
@@ -15,7 +17,7 @@ const router  = createBrowserRouter([
             {
                 path: "/",
                 element: <Home></Home>,
-                // loader => fetch("data.json")
+                // loader: () => fetch("/data.json")
             },
             {
                 path: "/login",
@@ -24,6 +26,11 @@ const router  = createBrowserRouter([
             {
                 path: "/register",
                 element: <Register></Register>
+            },
+            {
+                path: "/destination",
+                element: <Destination></Destination>,
+                loader: () => fetch("/data.json")
             }
             
         ]

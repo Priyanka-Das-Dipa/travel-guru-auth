@@ -13,7 +13,7 @@ const Banner = () => {
     <>
       <div className="flex">
         <div><p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus eum harum explicabo sapiente nihil. Exercitationem libero, nisi ut quod commodi dicta excepturi explicabo, ipsum cupiditate distinctio atque amet fuga ducimus est aut hic sit iste saepe odit porro vero quis! Saepe blanditiis quibusdam harum corrupti. In eligendi consectetur inventore at earum, similique impedit mollitia amet eaque ducimus eos quis optio repudiandae cumque ullam tempora. Cumque corporis aspernatur saepe reiciendis unde, velit doloribus, provident quam, iusto excepturi atque. Aspernatur, dolore excepturi consequuntur eum consectetur nam ipsam sed ad at qui aut quaerat ducimus dicta cumque? Et ad dolore sint deleniti iusto?</p></div>
-        <div className="w-[400px] h-[200px]">
+        <div className="w-[300px] h-[516px]">
           <Swiper navigation={true} modules={[Navigation]} className="mySwiper">
             <SwiperSlide>
               <img src={rectangle1} alt="" />
@@ -25,7 +25,7 @@ const Banner = () => {
             <SwiperSlide>Slide 6</SwiperSlide>
             <SwiperSlide>Slide 7</SwiperSlide>
             <SwiperSlide>Slide 8</SwiperSlide>
-            <SwiperSlide>Slide 9</SwiperSlide>
+            
           </Swiper>
         </div>
       </div>
